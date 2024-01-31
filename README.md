@@ -16,7 +16,7 @@ Para executar este projeto localmente, siga estes passos:
 ### 4.Inicie o servidor de desenvolvimento:
   npm start
   
-Abra seu navegador e visite ###http://localhost:3000 para visualizar as flores
+Abra seu navegador e visite http://localhost:3000 para visualizar as flores
 
 ## Utilização
 Uma vez que a aplicação estiver em execução, você será recebido com uma bela cena de jardim composta por várias flores e gramíneas. Sinta-se à vontade para explorar os elementos visuais e apreciar os detalhes intricados de cada flor.
