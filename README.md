@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# Flores
+Este projeto é uma simples aplicação React que exibe um charmoso jardim de flores. É uma experiência visual encantadora que você pode desfrutar tanto como um projeto independente ou como parte de uma aplicação maior.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Instalação
+Para executar este projeto localmente, siga estes passos:
 
-## Available Scripts
+### 1. Clone o repositório em sua máquina local:
+ git clone https://github.com/Gabsm02/flor-react
 
-In the project directory, you can run:
+### 2.Navegue até o diretório do projeto:
+ cd flor-react
+ 
+### 3. Instale as dependências usando npm:
+  npm install
 
-### `npm start`
+### 4.Inicie o servidor de desenvolvimento:
+  npm start
+  
+Abra seu navegador e visite ###http://localhost:3000 para visualizar as flores
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Utilização
+Uma vez que a aplicação estiver em execução, você será recebido com uma bela cena de jardim composta por várias flores e gramíneas. Sinta-se à vontade para explorar os elementos visuais e apreciar os detalhes intricados de cada flor.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Contribuições
+Contribuições são bem-vindas! Se você gostaria de contribuir para este projeto, por favor, siga estas diretrizes:
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1- Faça um fork do repositório no GitHub.
+2 - Clone o seu repositório forkado para sua máquina local.
+3 - Crie uma nova branch para trabalhar.
+4 - Faça suas alterações e as comite com mensagens de commit descritivas.
+5 - Envie suas alterações para o seu repositório forkado.
+6 - Abra um pull request para o repositório principal.
