@@ -24,9 +24,9 @@ Uma vez que a aplicação estiver em execução, você será recebido com uma be
 ## Contribuições
 Contribuições são bem-vindas! Se você gostaria de contribuir para este projeto, por favor, siga estas diretrizes:
 
-1- Faça um fork do repositório no GitHub.
-2 - Clone o seu repositório forkado para sua máquina local.
-3 - Crie uma nova branch para trabalhar.
-4 - Faça suas alterações e as comite com mensagens de commit descritivas.
-5 - Envie suas alterações para o seu repositório forkado.
-6 - Abra um pull request para o repositório principal.
+### 1- Faça um fork do repositório no GitHub.
+### 2 - Clone o seu repositório forkado para sua máquina local.
+### 3 - Crie uma nova branch para trabalhar.
+### 4 - Faça suas alterações e as comite com mensagens de commit descritivas.
+### 5 - Envie suas alterações para o seu repositório forkado.
+### 6 - Abra um pull request para o repositório principal.
